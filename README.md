@@ -41,7 +41,7 @@ For quick reference, this slim::
         %div
         p Dynamic {{ content }}
         p
-            |Nested dyanmic  {{ content }}
+            |Nested dynamic  {{ content }}
             Left indent is preserved in text blocks.
         p
             |<a href="http://www.google.com">Google</a>
